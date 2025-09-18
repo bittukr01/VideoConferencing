@@ -29,10 +29,10 @@ Real-Time: WebRTC, Socket.io
 ⚙️ Installation and Setup
 
 # Clone the repository
-git clone https://github.com/username/repo-name.git
+https://github.com/bittukr01/VideoConferencing.git
 
 # Navigate to project folder
-cd repo-name
+cd VideoConferencing
 
 # Install dependencies
 npm install
@@ -45,5 +45,10 @@ npm start
 📌 Future Enhancements
 
 Breakout Rooms
+
 Meeting Recording
+
 Whiteboard Sharing
+
+
+
